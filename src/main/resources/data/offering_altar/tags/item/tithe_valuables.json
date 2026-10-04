@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:diamond", "minecraft:emerald", "minecraft:netherite_scrap", "minecraft:netherite_ingot",
+    "minecraft:ancient_debris", "minecraft:gold_ingot", "minecraft:raw_gold", "minecraft:iron_ingot",
+    "minecraft:raw_iron", "minecraft:copper_ingot", "minecraft:raw_copper", "minecraft:lapis_lazuli",
+    "minecraft:redstone", "minecraft:amethyst_shard", "minecraft:diamond_ore", "minecraft:deepslate_diamond_ore",
+    "minecraft:emerald_ore", "minecraft:deepslate_emerald_ore", "minecraft:gold_ore", "minecraft:deepslate_gold_ore"
+  ]
+}

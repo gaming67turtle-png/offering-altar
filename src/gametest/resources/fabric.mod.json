@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "offering-altar-gametest",
+  "version": "1.0.0",
+  "name": "Offering Altar gametest",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-client-gametest": [
+      "dev.offeringaltar.gametest.AltarClientGameTest",
+      "dev.offeringaltar.gametest.TitheCollectorGameTest",
+      "dev.offeringaltar.gametest.AltarServerGameTest"
+    ]
+  },
+  "depends": {
+    "offering_altar": "*"
+  }
+}

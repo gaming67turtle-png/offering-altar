@@ -1,0 +1,13 @@
+.gradle/
+build/
+run/
+out/
+.idea/
+*.iml
+
+# Upload bundle (jars, copied images); binaries belong on Modrinth/CurseForge or GitHub Releases
+release/
+
+# Leftover copy and log from before the project moved here
+offering-altar/
+gametest.log

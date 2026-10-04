@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": { "type": "minecraft:survives_explosion" },
+      "entries": [ { "type": "minecraft:item", "name": "offering_altar:offering_altar" } ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "offering_altar:blocks/offering_altar"
+}

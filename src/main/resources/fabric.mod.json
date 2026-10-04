@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "offering_altar",
+  "version": "${version}",
+  "name": "Offering Altar",
+  "description": "Build an altar at the edge of the explored world and make an offering: the land beyond that has not been generated yet takes the shape of what you gave. Sand makes desert, saplings make forest, diamonds make rich but perilous ground.",
+  "authors": ["zardian"],
+  "license": "MIT",
+  "icon": "assets/offering_altar/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.offeringaltar.OfferingAltar"],
+    "client": ["dev.offeringaltar.client.OfferingAltarClient"]
+  },
+  "mixins": ["offering_altar.mixins.json"],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=25"
+  }
+}

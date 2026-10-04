@@ -1,0 +1,1 @@
+{ "parent": "minecraft:item/generated", "textures": { "layer0": "offering_altar:item/tithe_gatherer_spawn_egg" } }

@@ -1,0 +1,1 @@
+{ "type": "minecraft:crafting_shaped", "category": "misc", "pattern": [ " G ", "BCB", "BBB" ], "key": { "G": "minecraft:gold_ingot", "C": "minecraft:compass", "B": "minecraft:stone_bricks" }, "result": { "id": "offering_altar:offering_altar", "count": 1 } }

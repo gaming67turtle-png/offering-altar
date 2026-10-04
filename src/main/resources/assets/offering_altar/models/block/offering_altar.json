@@ -1,0 +1,1 @@
+{ "parent": "minecraft:block/cube_bottom_top", "textures": { "top": "offering_altar:block/offering_altar_top", "side": "offering_altar:block/offering_altar_side", "bottom": "minecraft:block/polished_deepslate" } }
